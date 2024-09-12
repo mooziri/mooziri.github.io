@@ -21,7 +21,7 @@ repository               : "mooziri/mooziri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_morteza.jpg"
+  avatar           : "profile_morteza.png"
   name             : "Morteza Mooziri"
   pronouns         : # example: "she/her"  
   bio              : "Neurophysiologist at Royan Institute"
